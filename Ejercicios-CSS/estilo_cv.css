@@ -1,0 +1,26 @@
+div {
+    border: 2px solid #feab5a;
+    margin: 20px 25px;
+    padding: 18px;
+    background-color: rgba(0,0,14,0.2);
+    border-radius: 15px;
+    box-shadow: 5px 7px #776363;
+}
+
+#foto{
+    width: 50px;
+    float: left;
+    border-radius: 50%;
+}
+
+.cuerpo_pagina{
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+    background: linear-gradient(to right,#19ac67,red);
+}
+
+h1, h2, h3 {
+    text-shadow: 2px 5px #7a8aac;
+}
+
+
